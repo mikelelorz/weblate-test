@@ -25,7 +25,7 @@ msgstr ""
 #. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_label"; ObjectID = "43"; */
 #: 43.normalTitle
 msgid "blocking_tos_accept_label"
-msgstr "ÑÑÑÑÑÑÑ"
+msgstr "Holi"
 
 #. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
 #: 44.normalTitle
