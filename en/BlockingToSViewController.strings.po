@@ -14,19 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1420725587.721606\n"
 
-#. /* Class = "IBUITextView"; text = "blocking_tos_explanation"; ObjectID = "42"; */
-#: 42.text
-msgid "blocking_tos_explanation"
-msgstr ""
-"Welcome to Quomai.\n"
-"Just one more step before you get access to your cards. In compliance with "
-"current legislation on data protection, you must accept the privacy policy."
-
-#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_label"; ObjectID = "43"; */
-#: 43.normalTitle
-msgid "blocking_tos_accept_label"
-msgstr "Holi"
-
 #. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
 #: 44.normalTitle
 msgid "blocking_tos_accept_button"
