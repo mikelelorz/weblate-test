@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-08 14:12+0000\n"
+"PO-Revision-Date: 2015-01-08 14:12+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: yy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1420726356.037297\n"
+
+#. /* Class = "IBUITextView"; text = "blocking_tos_explanation"; ObjectID = "42"; */
+#: 42.text
+msgid "blocking_tos_explanation"
+msgstr ""
+
+#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
+#: 44.normalTitle
+msgid "blocking_tos_accept_button"
+msgstr ""
