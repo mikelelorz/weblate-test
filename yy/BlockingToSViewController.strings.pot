@@ -17,3 +17,15 @@ msgstr ""
 #: 44.normalTitle
 msgid "blocking_tos_accept_button_new_key"
 msgstr ""
+
+
+#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
+#: 44.normalTitle
+msgid "blocking_tos_accept_button_new_key_2"
+msgstr ""
+
+
+#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
+#: 44.normalTitle
+msgid "blocking_tos_accept_button_new_key_3"
+msgstr ""
