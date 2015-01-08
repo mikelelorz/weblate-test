@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-30 14:22+0200\n"
+"PO-Revision-Date: 2013-07-30 14:32+0200\n"
+"Last-Translator: Mikel <mikel.elorz@quomai.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#. /* Class = "IBUITextView"; text = "blocking_tos_explanation"; ObjectID = "42"; */
+#: 42.text
+msgid "blocking_tos_explanation"
+msgstr ""
+"Bienvenido a Quomai.\n"
+"Estás a un solo paso de acceder a tus tarjetas. Antes, en cumplimiento de la "
+"legislación vigente, debes aceptar la política de privacidad."
+
+#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_label"; ObjectID = "43"; */
+#: 43.normalTitle
+msgid "blocking_tos_accept_label"
+msgstr "Acepto la política de privacidad"
+
+#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
+#: 44.normalTitle
+msgid "blocking_tos_accept_button"
+msgstr "Ver tus tarjetas"
