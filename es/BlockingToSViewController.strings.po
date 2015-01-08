@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1420726807.099248\n"
+"X-POOTLE-MTIME: 1420726356.037297\n"
 
 #. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
 #: 44.normalTitle
@@ -24,10 +24,8 @@ msgstr "0000000000000000"
 msgid "blocking_tos_accept_button_new_key_2"
 msgstr "2222222222222222"
 
-#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
-#: 44.normalTitle
-msgid "blocking_tos_accept_button_new_key_3"
-msgstr "3333333333333333333333"
+#~ msgid "blocking_tos_accept_button_new_key_3"
+#~ msgstr "3333333333333333333333"
 
 #~ msgid "blocking_tos_accept_button"
 #~ msgstr "Ver tus tarjetas"
