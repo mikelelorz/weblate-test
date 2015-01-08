@@ -15,11 +15,6 @@ msgstr ""
 "X-POOTLE-MTIME: 1420725587.721606\n"
 
 
-#. /* Class = "IBUIButton"; normalTitle = "blocking_tos_accept_button"; ObjectID = "44"; */
-#: 44.normalTitle
-msgid "blocking_tos_accept_button"
-msgstr ""
-
 #. /* Class = "IBUIButton"; normalTitle = "asdfg"; ObjectID = "45"; */
 #: 45.normalTitle
 msgid "blocking_tos_new"
